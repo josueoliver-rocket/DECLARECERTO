@@ -1,0 +1,7 @@
+project_id = "dvuwlxcidhmmrhrzmflu"
+
+[functions.process-nota-pdf]
+verify_jwt = false
+
+[functions.process-bonus-shares]
+verify_jwt = false

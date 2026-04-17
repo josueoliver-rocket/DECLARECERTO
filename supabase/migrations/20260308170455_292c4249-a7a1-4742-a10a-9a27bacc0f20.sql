@@ -1,0 +1,1 @@
+DELETE FROM public.operacoes WHERE ativo = 'AXIA7' AND nota_id IS NULL;

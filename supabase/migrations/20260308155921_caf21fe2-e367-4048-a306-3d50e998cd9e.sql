@@ -1,0 +1,1 @@
+ALTER TABLE public.notas_corretagem ADD COLUMN taxas_detalhadas jsonb DEFAULT '{}'::jsonb;

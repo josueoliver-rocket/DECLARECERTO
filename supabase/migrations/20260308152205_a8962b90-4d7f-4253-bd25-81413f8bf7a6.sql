@@ -1,0 +1,1 @@
+ALTER TABLE public.ticker_changes ADD COLUMN IF NOT EXISTS bonus_price numeric DEFAULT NULL;
